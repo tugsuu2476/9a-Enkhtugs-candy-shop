@@ -1,0 +1,39 @@
+.all {
+  height: 100vh;
+  width: 100%;
+}
+.candy {
+  height: 15vh;
+  width: 100%;
+  background-color: antiquewhite;
+  display: flex;
+}
+.sales {
+  height: 85vh;
+  width: 100%;
+  background-color: beige;
+}
+.sour {
+  height: 5vh;
+  width: 10%;
+  background-color: black;
+  margin: 50px;
+}
+.cotton {
+  height: 5vh;
+  width: 10%;
+  background-color: black;
+  margin: 50px;
+}
+.choco {
+  height: 5vh;
+  width: 10%;
+  background-color: black;
+  margin: 50px;
+}
+.lolipop {
+  height: 5vh;
+  width: 10%;
+  background-color: black;
+  margin: 50px;
+}
