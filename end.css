@@ -1,0 +1,30 @@
+.all {
+  height: 100vh;
+  width: 100%;
+}
+.une {
+  height: 50vh;
+  width: 100%;
+  background-color: pink;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.kak {
+  height: 50vh;
+  width: 100%;
+  background-color: rosybrown;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.UNE {
+  height: 40vh;
+  width: 30%;
+  background-color: aqua;
+}
+.KAK {
+  height: 40vh;
+  width: 30%;
+  background-color: aqua;
+}

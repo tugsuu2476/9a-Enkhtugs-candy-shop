@@ -1,0 +1,56 @@
+.all {
+  height: 100vh;
+  width: 100%;
+}
+.up {
+  height: 50vh;
+  width: 100%;
+  background-color: bisque;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.down {
+  height: 50vh;
+  width: 100%;
+  background-color: violet;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.one {
+  height: 20vh;
+  width: 20%;
+  background-color: aqua;
+  margin: 10px;
+}
+.two {
+  height: 20vh;
+  width: 20%;
+  background-color: aqua;
+  margin: 10px;
+}
+.three {
+  height: 20vh;
+  width: 20%;
+  background-color: aqua;
+  margin: 10px;
+}
+.four {
+  height: 20vh;
+  width: 20%;
+  background-color: aqua;
+  margin: 10px;
+}
+.five {
+  height: 20vh;
+  width: 20%;
+  background-color: aqua;
+  margin: 10px;
+}
+.six {
+  height: 20vh;
+  width: 20%;
+  background-color: aqua;
+  margin: 10px;
+}
