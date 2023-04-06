@@ -1,0 +1,24 @@
+.all {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+  }
+  .zurag {
+    height: 100vh;
+    width: 50%;
+    background-color: bisque;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .bicig {
+    height: 100vh;
+    width: 50%;
+    background-color: violet;
+  }
+  .zrg {
+    height: 50vh;
+    width: 40%;
+    background-color: black;
+  }
+  

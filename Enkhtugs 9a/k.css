@@ -1,0 +1,21 @@
+
+.all {
+    height: 100vh;
+    width: 100%;
+  }
+  .us {
+    height: 10vh;
+    width: 100%;
+    background-color: aqua;
+  }
+  .about {
+    height: 90vh;
+    width: 100%;
+    background-color: antiquewhite;
+  }
+  .next {
+    height: 5vh;
+    width: 10%;
+    background-color: blueviolet;
+    border-radius: 50px;
+  }
